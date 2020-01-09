@@ -1,0 +1,1000 @@
+Number,Source,Voice,Taunt
+1,,,Yes.
+2,,,No.
+3,,,Food please.
+4,,,Wood please.
+5,,,Gold please.
+6,,,Stone please.
+7,,,Ahh!
+8,,,"All hail, king of the losers!"
+9,,,Ooh!
+10,,,I'll beat you back to Age of Empires.
+11,,,(Herb laugh)
+12,,,Ah!being rushed.
+13,,,"Sure, blame it on your ISP."
+14,,,Start the game already!
+15,,,Don't point that thing at me!
+16,,,Enemy sighted!
+17,,,It is good to be the king.
+18,,,Monk!I need a monk!
+19,,,"Long time, no siege."
+20,,,My granny could scrap better than that.
+21,,,"Nice town, I'll take it."
+22,,,Quit touching me!
+23,,,Raiding party!
+24,,,Dadgum.
+25,,,"Eh, smite me."
+26,,,"The wonder, the wonder, the...no!"
+27,,,You played two hours to die like this?
+28,,,"Yeah, well, you should see the other guy."
+29,,,Roggan.
+30,,,Wololo.
+31,,,Attack an enemy now.
+32,,,Cease creating extra villagers.
+33,,,Create extra villagers.
+34,,,Build a navy.
+35,,,Stop building a navy.
+36,,,Wait for my signal to attack.
+37,,,Build a wonder.
+38,,,Give me your extra resources.
+39,,,(Ally sound)
+40,,,(Enemy sound)
+41,,,(Neutral sound)
+42,,,What age are you in?
+43,,,What is your strategy?
+44,,,How many resources do you have?
+45,,,Retreat now!
+46,,,Flare the location of your army.
+47,,,Attack in direction of the flared location.
+48,,,"I'm being attacked, please help!"
+49,,,Build a forward base at the flared location.
+50,,,Build a fortification at the flared location.
+51,,,Keep your army close to mine and fight with me.
+52,,,Build a market at the flared location.
+53,,,Rebuild your base at the flared location.
+54,,,Build a wall between the two flared locations.
+55,,,Build a wall around your town.
+56,,,Train units which counter the enemy's army.
+57,,,Stop training counter units.
+58,,,Prepare to send me all your resources so I can vanquish our foes!
+59,,,Stop sending me extra resources.
+60,,,"Prepare to train a large army, I will send you as many resources as I can spare."
+61,,,Attack player 1!(Blue)
+62,,,Attack player 2!(Red)
+63,,,Attack player 3!(Green)
+64,,,Attack player 4!(Yellow)
+65,,,Attack player 5!(Teal)
+66,,,Attack player 6!(Purple)
+67,,,Attack player 7!(Gray)
+68,,,Attack player 8!(Orange)
+69,,,Delete the object on the flared location.
+70,,,Delete your excess villagers.
+71,,,Delete excess warships.
+72,,,Focus on training infantry units.
+73,,,Focus on training cavalry units.
+74,,,Focus on training ranged units.
+75,,,Focus on training warships.
+76,,,Attack the enemy with Militia.
+77,,,Attack the enemy with Archers.
+78,,,Attack the enemy with Skirmishers.
+79,,,Attack the enemy with a mix of Archers and Skirmishers.
+80,,,Attack the enemy with Scout Cavalry.
+81,,,Attack the enemy with Men-at-Arms.
+82,,,Attack the enemy with Eagle Scouts.
+83,,,Attack the enemy with Towers.
+84,,,Attack the enemy with Crossbowmen.
+85,,,Attack the enemy with Cavalry Archers.
+86,,,Attack the enemy with Unique Units.
+87,,,Attack the enemy with Knights.
+88,,,Attack the enemy with Battle Elephants.
+89,,,Attack the enemy with Scorpions.
+90,,,Attack the enemy with Monks.
+91,,,Attack the enemy with Monks and Mangonels.
+92,,,Attack the enemy with Eagle Warriors.
+93,,,Attack the enemy with Halberdiers and Rams.
+94,,,Attack the enemy with Elite Eagle Warriors.
+95,,,Attack the enemy with Arbalests.
+96,,,Attack the enemy with Champions.
+97,,,Attack the enemy with Galleys.
+98,,,Attack the enemy with Fire Galleys.
+99,,,Attack the enemy with Demolition Rafts.
+100,,,Attack the enemy with War Galleys.
+101,,,Attack the enemy with Fire Ships.
+102,,,Attack the enemy with Unique Warships.
+103,,,Use an Onager to cut down trees at the flared location.
+104,,,Don't resign!
+105,,,You can resign again.
+106,Simpsons,Homer,"Alright, That's The Last Straw, Time To Take Out The Trash"
+107,Simpsons,Homer,Boring
+108,Simpsons,Homer,Computers Can Do That
+109,Simpsons,Homer,Craaaaaaaaap
+110,Simpsons,Homer,Damn You All To Hell!
+111,Simpsons,Homer,"Doh, Oh, Ok"
+112,Simpsons,Homer,Doh
+113,Simpsons,Homer,Doheth
+114,Simpsons,Homer,"Hahaha, It's Funny Cause It's True"
+115,Simpsons,Homer,"Hello, Operator, Give Me The Number For 911"
+116,Simpsons,Homer,Hello
+117,Simpsons,Homer,I Have A Feeling Some Bad Stuff Is About To Go Down
+118,Simpsons,Homer,I'll Bash You Good
+119,Simpsons,Homer,Kiss My Curvy Butt Goodbye
+120,Simpsons,Homer,Meow Meow Meow Meow
+121,Simpsons,Homer,Oh Crap
+122,Simpsons,Homer,"Oooh, That's Bad"
+123,Simpsons,Homer,Shutup
+124,Simpsons,Homer,Stop Pummeling Me! It's Really Painful!
+125,Simpsons,Homer,"To Start Press Any Key, Where's The Any Key"
+126,Simpsons,Homer,Why You Little
+127,Simpsons,Homer,"Won't You Let Me Live, Won't You Please"
+128,Simpsons,Homer,Woohoo
+129,Simpsons,Homer,"You Tried You Best, And You Failed Miserably"
+130,Simpsons,Homer,"You're Living In A World Of Make Believe, With Flowers And Leprechauns"
+131,Simpsons,Apu,Thank You For Coming! I'll See You In Hell!
+132,Simpsons,Apu,We're Putting That Bitch On Ice
+133,Simpsons,Apu,"Yes I'm Sorry, I Do Not Speak English, Ok"
+134,Simpsons,Mr. Burns,"Yes, You're In Deep Doh Now"
+135,Simpsons,Mr. Burns,Excellent
+136,Simpsons,Mr. Burns,Release The Hounds
+137,Simpsons,Krusty,I Could Pull A Better Cartoon Outta My Aaaa
+138,Simpsons,Krusty,Laugh
+139,Simpsons,Bart,Eat My Shorts
+140,Simpsons,Comic Book Guy,"I Specifically Said, No Geeks"
+141,Simpsons,Grandpa,"Oh No, We're All Doomed"
+142,Simpsons,Ned,Oh Indeedly Doodly
+143,Simpsons,Nelson,Ha Ha
+144,,,You Are Making Me So Angry
+145,,,"Stop Fighting Back, It's Not Fair"
+146,,,The Cavalry Should Be Coming Directly
+147,,,"Hey, We Didn't Do Nothin To You"
+148,,,You're Not Talkin To Me Are Ya
+149,,,Woah Somebody Was Up Late
+150,,,You Again Don't You Have A Life
+151,LooneyToons,Bugs,I Better Get Out Of Here While The Getting's Good
+152,LooneyToons,Bugs,"A Guy Could Get Killed Out There, With All Them Guns Going Off"
+153,LooneyToons,Bugs,"You Poor Little Man, Did I Hurt You With My Naughty Gun"
+154,LooneyToons,Bugs,Of Course You Know This Means War
+155,LooneyToons,Bugs,What's Up Doc
+156,LooneyToons,Bugs,Ain't You Got Nothin Better To Do
+157,LooneyToons,Bugs,It'll Take Him All Day To Figure This One Out
+158,LooneyToons,Bugs,Oh You Again
+159,LooneyToons,Bugs,Yeeeeh Mr Wise Guy Now You're Gonna Get It
+160,LooneyToons,Bugs,I Cannot Fight No More Against Such Genius
+161,LooneyToons,Bugs,Just A Minute Partner. Them's Fighting Words
+162,LooneyToons,Daffy,Watch It Buster
+163,LooneyToons,Daffy,Mother Said There'd Be Days Like This
+164,LooneyToons,Daffy,"come on Now, Don't Be Bashful"
+165,LooneyToons,Daffy,"My, Aren't We Touchy Today"
+166,LooneyToons,Daffy,Muahahaha
+167,LooneyToons,Daffy,Fear Clutches My Breast
+168,LooneyToons,Daffy,Hoho Very Funny Haha It Is To Laugh
+169,LooneyToons,Daffy,I Hate You
+170,LooneyToons,Daffy,Sakes Ya Think He Could Find Some Other Place To Put A Building
+171,LooneyToons,Daffy,"Oh, No Thanks Are Necessary My Good Man I Was Just Doing My Duty"
+172,LooneyToons,Daffy,Alright Rasneck Lets See Ya Try That Again
+173,LooneyToons,Daffy,I Like Him He's Crazy
+174,LooneyToons,Daffy,Hankering For Trouble Hey
+175,LooneyToons,Daffy,You Wouldn't Dare
+176,LooneyToons,Daffy,Look Just Give Me A Chance Can't Ya
+177,LooneyToons,Daffy,"Alright, Enough Is Enough, This Is It The Final, The Very Very Last Straw"
+178,LooneyToons,Daffy,I've Never Been So Humiliated In All My Life
+179,LooneyToons,Daffy,Would It Be Too Much To Ask If We Could Make Up Our Minds
+180,LooneyToons,Daffy,"Okay, Have It YOUR Way"
+181,LooneyToons,Daffy,"Hey, Psst, Whoever's In Charge Here"
+182,LooneyToons,Daffy,"Quick, Quick, Save Me Pal"
+183,LooneyToons,Daffy,You're Dispicable
+184,LooneyToons,Daffy,"Heh, Didn't Think I Could Do It Did Ya"
+185,LooneyToons,Daffy,What's Going On Around Here
+186,LooneyToons,Yosemite Sam,"Come On, Quit Stalling!"
+187,LooneyToons,Yosemite Sam,"Now Look It, I Say Look It Here"
+188,LooneyToons,Yosemite Sam,Running Away Won't Save Ya
+189,LooneyToons,Elmer Fudd,There's Something Screwy Around Here
+190,LooneyToons,Elmer Fudd,"Be Vewy Vewy Quiet, I'm Hunting Wabbits!"
+191,LooneyToons,Granny,Oh Boy That Felt Good
+192,LooneyToons,Marvin The Martian,"You Have Made Me Very Angry, Very Angry Indeed"
+193,LooneyToons,,"Uh Oh, I Almost Made A Booboo"
+194,LooneyToons,,"Aye Come Here, I've Got Something Good For You, Come On Come On"
+195,LooneyToons,,Little Man I've Had A Busy Day
+196,Popeye,,Well Blow Me Down
+197,Charlie Brown,,Oh Good Grief
+198,Charlie Brown,,You Better Cut It Out Right Now Or I'll Pound You
+199,Underdog,,"There's No Need To Fear, Underdog Is Here"
+200,Darkwing Duck,,"Bruised, Battered, But Never Defeated"
+201,Pinky And The Brain,,We Must Plan For Tomorrow Night. Try To Take Over The World
+202,Disney,Goofy,"Hyuk, Guess They're Excited, Ahyuk!"
+203,Disney,Goofy,"Ahyuk, I Still Got The Touch, Ahyuk!"
+204,Disney,Timon,"Who's The Brains In This Outfit, My Point Exactly"
+205,Disney,Iago,I Cant Take It Any More
+206,Disney,Yao,"I'm Gonna Hit You So Hard, It Will Make Your Ancestors Dizzy"
+207,Dragonball Z,,Its Over 9000!!!
+208,Futurama,,"Sure You Lost, You Lost Bad. And You Made It Look Almost Half Real"
+209,King Of The Hill,,"Guns Don't Kill People, The Government Does"
+210,South Park,Cartman,I Am A Cop And You Will Respect My Authorita
+211,South Park,Cartman,"Beefcake, Beefcake, BEEFCAKE, BEEFCAKE"
+212,South Park,Cartman,"Hey, I Don't Have To Take That Crap From You Scrawny Weak"
+213,South Park,Cartman,Screw You Hippie
+214,South Park,Cartman,That's It Now I'm All Pissed Off! Take That Hippie
+215,South Park,Cartman,Get Your Ass To Jail!
+216,South Park,Cartman,How Would You Like To Suck My Balls
+217,South Park,Cartman,Fuck Off You Donkey Rippin Shit Eater
+218,South Park,Cartman,Revenge Is So Very Sweet
+219,South Park,Cartman,"No Way Dude, We're Not Stayin Alone In Your House"
+220,South Park,Mr Garrison,"Uh Oh, Retard Alert!"
+221,South Park,Mr Garrison,"We're Doomed, Goodbye Mr Hat"
+222,South Park,Mr Garrison,"Yes, For Gods Sake Get On With It"
+223,South Park,Mr Garrison,"No, You Hear Me, You Go To Hell, You Go To Hell And You Die"
+224,South Park,Stan,You Bastard
+225,South Park,Stan,"You'll Go And Sit In Front Of The Tv And Eat Cheesy Poofs, Assmaster"
+226,South Park,Chef,Ok Everybody Get In A Line So I Can Whoop All Your Asses
+227,Family Guy,Stewie,SAY WHAT!
+228,Family Guy,Stewie,"Victory Is Mine, Ahh Damn You All"
+229,Family Guy,Stewie,"What Are They Paying You, I'll Double It"
+230,Family Guy,Stewie,"You're Useless, I'll Defend Myself And To Hell With All Of You"
+231,Family Guy,Stewie,"Well Well Mother, We Meet Again"
+232,Family Guy,Stewie,Time To Be Bad
+233,Family Guy,Stewie,They're Dead You Know
+234,Family Guy,Peter,OMG Who The Hell Cares!
+235,Family Guy,Peter,Laughing
+236,Family Guy,Brian,Oh I Think I'll Manage
+237,Family Guy,,Trololo
+238,Rick And Morty,Rick,Then I'm Gonna Need You To Put Em Waaay Up Inside Your Butthole
+239,Rick And Morty,Rick,Lick Lick Lick My Balls Hahaha Yeah
+240,Rick And Morty,Rick,Riggity Riggity Wrecked Son
+241,Rick And Morty,Rick,Wubbalubadubdub
+242,Rick And Morty,Rick,Hit The Sack Jack
+243,Rick And Morty,Rick,Thank Youuuuuu
+244,Rick And Morty,Rick,That's Retarded
+245,Rick And Morty,Rick,Whatever
+246,Rick And Morty,Floating Head,Good Job!
+247,Rick And Morty,Floating Head,Show Me What You Got!
+248,Rick And Morty,Floating Head,Disqualified
+249,Rick And Morty,Mr PoopyButthole,"Ooowie, What A Season, Sorry I Never Showed Up!"
+250,Rick And Morty,Mr PoopyButthole,OooWie
+251,Rick And Morty,Mr PoopyButthole,"What Did You Do, Hopefully You Didn't Just Fk Around And Waste Your Life"
+252,Rick And Morty,Scary Terry,Awww Bitch
+253,Rick And Morty,Bird Person,In Bird Culture This Is Considered
+254,Rick And Morty,Mr Meeseeks,Oooo Yeah Caaan Doo!
+255,Rick And Morty,Morty,Oh Man
+256,Rick And Morty,Morty,Well Then Get Your Shit Together. Put It In A Backpack
+257,Rick And Morty,Morty,"If You Gotta Take It Somewhere, Take It To The Shit Store"
+258,Rick And Morty,Morty,Get Your Shit Together
+259,Rick And Morty,,My Man
+260,Rick And Morty,,Baby Legs Here We Go! That's The Sound I Make When I'm Tryin To Run Fast
+261,Beavis And  Butthead,Butthead,Hehe What A Dork Hehehe
+262,Beavis And  Butthead,Butthead,We're Gonna Be Cool
+263,Beavis And  Butthead,Butthead,This Is The Coolest Thing I Have Ever Seen
+264,Beavis And  Butthead,Butthead,"Uh, Sir, I'm Afraid I'm Gonna Have To Kick Your Ass"
+265,Beavis And  Butthead,Butthead,"Please Come Out, Please"
+266,Beavis And  Butthead,Beavis,"I Am Cornholio, I Have No Bunghole"
+267,Beavis And  Butthead,Beavis,"Fire, Fire"
+268,Beavis And  Butthead,Beavis,Are You Threatening Me
+269,Beavis And  Butthead,Beavis,"Is This Like One Of Those 976 Numbers, What Are You Wearing"
+270,Beavis And  Butthead,Beavis,"You Have Awakened My Bunghole, And Now U Must Pay"
+271,Beavis And  Butthead,,Laughing
+272,Beavis And  Butthead,Coach Buzzcut,You Just Made A Fatal Mistake Mister Candyass
+273,Beavis And  Butthead,Coach Buzzcut,I Do The Ass Kickin Round Here
+274,Ren & Stimpy,Ren,Ahh! You Eediots!
+275,Ren & Stimpy,Ren,Have You Lost Your Mind
+276,Ren & Stimpy,Ren,"It's Gonna Kill Us, Run, RUN!"
+277,Ren & Stimpy,Ren,Why Wont They Leave Me Alone!
+278,Ren & Stimpy,Ren,Laugh
+279,Ren & Stimpy,Ren,Laugh 2
+280,Ren & Stimpy,Ren,Oh What I'm Gonna Do To You
+281,Ren & Stimpy,Ren,Uuuhuhuhuhuhu
+282,Campaign,,"You May Think I'm Beaten, Wait, My Sword, Where Is It, Aahhh"
+283,Campaign,,"I'll Teach You To Come Near My City, I Eat People Like You For Breakfast"
+284,Campaign,,Anytime You Wanna Get Into The Fight Just Jump On In
+285,Campaign,,"Try To Distract Him, I've Got A Plan"
+286,Campaign,,That Was A Cowards Tactic
+287,Campaign,,Its Too Late To Surrender Now
+288,Campaign,,"Remember To Upgrade At The Blacksmith, You Do Have A Blacksmith Right"
+289,Campaign,,I Die With Honor
+290,Campaign,,It's Genghis Khan! We Must Flee!
+291,Campaign,,Charge
+292,Campaign,,Mongols! We Are Doomed For Certain
+293,Campaign,Here They Come,Fire
+294,Campaign,,"I Know Your Admiration For Me Is Great, But Try To Contain Yourself"
+295,Campaign,,"Be Gone, You Have Occupied My Lands For Far Too Long"
+296,Campaign,,Bowmen Ready
+297,Campaign,,Draw Arrows
+298,Campaign,,Attack
+299,Campaign,,"You Are A Coward And A Weakling, Invading You Will Be A Pleasure"
+300,Campaign,,"All Must Fall Before The Might And Right Of My Cause, You Shall Be First"
+301,Campaign,,Where Are Those Blasted Reinforcements
+302,Starcraft 2,Artanis,Strength In Unity!
+303,Starcraft 2,Artanis,I Am Gravely Disappointed In You
+304,Starcraft 2,Artanis,Our Thoughts Are One!
+305,Starcraft 2,Artanis,Triumph Through Sacrifice!
+306,Starcraft 2,Artanis,"Has It All Been, For NOTHING!"
+307,Starcraft 2,Artanis,Die Die DIE!
+308,Starcraft 2,Battlecruiser,Oh Really
+309,Starcraft 2,Battlecruiser,"I Have An Announcement, I Am Drunk!"
+310,Starcraft 2,Battlecruiser,Identify Yourself
+311,Starcraft 2,Battlecruiser,"I Am Seeing Double, Shoot Them Both!"
+312,Starcraft 2,Ghost,Now That's An Ass Wooping
+313,Starcraft 2,Ghost,Never Say Die!
+314,Starcraft 2,Ghost,"I See Live People, I See Dead People"
+315,Starcraft 2,Ghost,"You Have Something On Your Face, Got It"
+316,Starcraft 2,Zeratul,"I Will Do, What Must Be Done"
+317,Starcraft 2,Marine,You Gonna Give Me Orders
+318,Starcraft 2,Marauder,Its GO! Time
+319,Starcraft 2,Wraith,"I'm Just Curious, Why Am I So Good"
+320,Warcraft,Death Knight,"When My Work Is Finished, I'm Coming Back For You"
+321,Warcraft,Death Knight,I'm Growing Impatient
+322,Warcraft,Death Knight,That Doesn't Hurt
+323,Warcraft,Death Knight,Stop That Incessant Clicking
+324,Warcraft,Dwarf,Tilt One Back With Me Dog
+325,Warcraft,Dwarf,I Love Blowing Things Up
+326,Warcraft,Dwarf,Argh There's No Hope For This Lad
+327,Warcraft,Human,Face Me Coward
+328,Warcraft,Human Peasant,Leave Me Alone
+329,Warcraft,Orc Peon,I Would Not Do Such Things If I Were You
+330,Warcraft,Orc Peon,Missed Me
+331,Warcraft,Orc Peon,"Burp, Excuse Me"
+332,Warcraft,Orc,"Do You Feel Lucky, Punk"
+333,Warcraft,Tauren,Bring It On
+334,Warcraft,,LEROY JENKINS
+335,Postal,,(Evil Laugh)
+336,Postal,,Burn Baby Burn
+337,Postal,,Clean Up On Isle 5
+338,Postal,,Damn I'm Good
+339,Postal,,"Die, Weakling!"
+340,Postal,,Do You Smell Something Burning
+341,Postal,,You Need A Body Bag
+342,Postal,,Get'em
+343,Postal,,"Going, Going, Gone"
+344,Postal,,Good One!
+345,Postal,,He's Outta There
+346,Postal,,Hoohah!
+347,Postal,,Am The Angel Of Death
+348,Postal,,I Regret Nothing
+349,Postal,,I'll See You In Hell! (Evil Laugh)
+350,Postal,,"Is It Hot In Here, Or Is It Just Me"
+351,Postal,,Is There A Doctor In The House
+352,Postal,,Keep The Change
+353,Postal,,Kickin Ass
+354,Postal,,"Mmm, I Love A Good Bbq"
+355,Postal,,Now That's A Blue Light Special
+356,Postal,,Did That Hurt
+357,Postal,,Do You Have A Booboo
+358,Postal,,"Oww, With The Birthday Suit"
+359,Postal,,See You In Hell
+360,Postal,,Show No Mercy
+361,Postal,,Sissy!
+362,Postal,,Smells Like Chicken
+363,Postal,,Today Is A Good Day To Die
+364,Postal,,Wussie
+365,Postal,,You Should've Gone To Disney Land
+366,Postal,,You're Gonna Need A Massage After This
+367,Postal,,You're Gonna Pay For That
+368,Postal,,You're The Man
+369,Duke Nukem,,You Guys Suck
+370,Duke Nukem,,There's Only Two Ways This Can End
+371,Duke Nukem,,Die You Son Of A Bitch
+372,Duke Nukem,,"Life's A Bitch, And Then You Die"
+373,Duke Nukem,,"I'm Gonna Kick Your Ass, Bitch"
+374,Redneck Rampage,,I'm Gonna Have To Open Up A Can Of Whoop-Ass
+375,Counter Strike,,Fire In The Hole!
+376,Counter Strike,,Enemy Down
+377,Counter Strike,,Need Backup
+378,Counter Strike,,Get In Position
+379,Counter Strike,,Stick Together Team
+380,Counter Strike,,Follow Me
+381,Counter Strike,,I'm Hit Need Assistance
+382,Counter Strike,,Cover Me
+383,Counter Strike,,I'm In Position
+384,Counter Strike,,Roger That!
+385,Counter Strike,,Regroup Team
+386,Counter Strike,,Meet At The Rendezvous Point
+387,Counter Strike,,GO GO GO
+388,Counter Strike,,"Ok, Lets Go"
+389,Counter Strike,,Team Let's Get Out Of Here
+390,Unreal Tournament,,Assault The Base
+391,Unreal Tournament,,I Need Some Backup
+392,Unreal Tournament,,Boom
+393,Unreal Tournament,,Burn Baby
+394,Unreal Tournament,,Cover Me
+395,Unreal Tournament,,See Ya
+396,Unreal Tournament,,Defend The Base
+397,Unreal Tournament,,Objective Destroyed
+398,Unreal Tournament,,DirtBag
+399,Unreal Tournament,,I've Got U Covered
+400,Unreal Tournament,,I've Got Your Back
+401,Unreal Tournament,,Hahaha
+402,Unreal Tournament,,Hang In There
+403,Unreal Tournament,,Hold This Position
+404,Unreal Tournament,,That Had To Hurt
+405,Unreal Tournament,,I'm On It
+406,Unreal Tournament,,I'm In Position
+407,Unreal Tournament,,Lets Rock
+408,Unreal Tournament,,Ya Like That
+409,Unreal Tournament,,Loser
+410,Unreal Tournament,,You Have Lost The Match
+411,Unreal Tournament,,That Was Nasty
+412,Unreal Tournament,,Next
+413,Unreal Tournament,,Nice
+414,Unreal Tournament,,OhYea
+415,Unreal Tournament,,OnMyWay
+416,Unreal Tournament,,I'm In Position
+417,Unreal Tournament,,Roger That
+418,Unreal Tournament,,Search And Destroy
+419,Unreal Tournament,,I Just Slaughtered That Guy
+420,Unreal Tournament,,Sucker
+421,Unreal Tournament,,You Be Dead
+422,Unreal Tournament,,I'm Under Heavy Attack
+423,Unreal Tournament,,Useless
+424,Unreal Tournament,,Anyone Else Want Some
+425,Mortal Kombat,,GET OVER HERE!!!!
+426,Mortal Kombat,,FINISH HIM !!
+427,Mortal Kombat,,FATALITY !
+428,Mortal Kombat,,FATALITY 2
+429,Mortal Kombat,,BABALITY !
+430,Mortal Kombat,,Flawless Victory
+431,Mortal Kombat,,Flawless Victory Fatality
+432,Mortal Kombat,,You Weak Pathetic Fool
+433,Mario,,Super Mario Loses Life
+434,Mario,,Super Mario Course Clear
+435,Lunar,,"Listen, You Haven't Seen The Coolest Part, This Is Gonna Blow You Away"
+436,Lunar,,"I'll Soon Rule The World, But First You Have To Die"
+437,Terminal Velocity,,Tell Ya Mother You're Not Coming Home
+438,Star Wars,Darth Vader,All Too Easy
+439,Star Wars,Darth Vader,I Find Your Lack Of Faith Disturbing
+440,Star Wars,Darth Vader,It Is Pointless To Resist
+441,Star Wars,Darth Vader,"There Is No Escape, Don't Make Me Destroy You"
+442,Star Wars,Darth Vader,You Should Not Have Come Back
+443,Star Wars,Darth Vader,"You Are Beaten, It Is Useless To Resist"
+444,Star Wars,Darth Vader,If You Only Knew The Power Of The Dark Side
+445,Star Wars,Darth Vader,Don't Make Me Destroy You
+446,Star Wars,Darth Vader,Impressive
+447,Star Wars,Darth Vader,Leave That To Me
+448,Star Wars,Darth Vader,NOOOOOO
+449,Star Wars,Obi Wan,If You Strike Me Down I'll Become More Powerful Than You Can Possibly Imagine
+450,Star Wars,Obi Wan,You Must Learn The Ways Of The Force
+451,Star Wars,Obi Wan,"The Force Will Be With You, Always"
+452,Star Wars,Yoda,Laughing
+453,Star Wars,Yoda,HmmMMmmm
+454,Star Wars,Emperor,Everything Is Proceeding As I Have Foreseen
+455,Star Wars,Emperor,Witness The Firepower Of This Fully Armed And Operational Battle Station
+456,Star Wars,Han Solo,"How We Doing, Same As Always, That Bad Eh"
+457,Star Wars,Han Solo,"Good Luck, You're Gonna Need It"
+458,Star Wars,C3PO,We're Doomed
+459,Star Wars,C3PO,We Seem To Be Made To Suffer
+460,Star Wars,Luke,I Have A Very Bad Feeling About This
+461,Star Wars,Jabba,Laughing
+462,Star Wars,,I Think It Is Time To Demonstrate The Full Power Of This Station
+463,Star Wars,,Move The Fleet Away From The Deathstar
+464,Star Wars,,You May Fire When Ready
+465,Star Wars,,That's Impossible Even For A Computer
+466,Star Wars,,"Red Leader Standing By, Gray Leader Standing By"
+467,Star Wars 2,Emperor,Begin Landing Your Troops
+468,Star Wars 2,Emperor,Wipe Them Out - All Of Them
+469,Star Wars 2,Yoda,"Always Two There Are, A Master And An Apprentice"
+470,Star Wars 2,,At Last We'll Have Revenge
+471,Star Wars 2,,This Is A Battle I Do Not Think That We Can Win
+472,Star Wars 2,Queen Amidala,We Must Do Something Quick
+473,Star Wars 2,Jar Jar,You'sa People Gonna Die
+474,Star Wars 2,,"A Communications Disruption Can Mean Only One Thing, Invasion"
+475,Spaceballs,,"Now You See That Evil Will Always Triumph, Because Good Is Dumb"
+476,Spaceballs,,What The Hell Was That
+477,Spaceballs,,Smoke If Ya Got Em
+478,Spaceballs,,"You're Looking At Now, Sir. We're At Now, Now"
+479,Spaceballs,,Go Back To Then! When. Just Now. When Will Then Be Now
+480,Spaceballs,,"Who Is He. He's An Asshole Sir. Asshole, Major Asshole"
+481,Spaceballs,,"And His Cousin. He's An Asshole, Too, Sir. Gunner's Mate First Class Phillip Asshole"
+482,Spaceballs,,How Many Assholes We Got On This Ship Anyhow. YO
+483,Spaceballs,,"I Knew It, I'm Surrounded By Assholes"
+484,Spaceballs,,"Keep Firing, Assholes"
+485,Spaceballs,,"Sorry Sir, Doing My Best"
+486,Spaceballs,,What Should We Do Now Sir
+487,Spaceballs,,Prepare To Attack. Prepare To Attack!
+488,Spaceballs,,You Are Ugly When You're Angry
+489,Spaceballs,,"I'm having trouble with the radar sir. What's Wrong with it. I've lost the bleeps, I've lost the sweeps, and I've lost the creeps. The what, the what and the what"
+490,Monty Python,,Go Away
+491,Monty Python,,Who Are The Britons
+492,Monty Python,,"Help, Help, I'm Being Repressed"
+493,Monty Python,,Come And See The Violence Inherent In The System!
+494,Monty Python,King Arthur,Bloody Peasant!
+495,Monty Python,French Guard,Mind Your Own Business!
+496,Monty Python,French Guard,"You Don't Frighten Us, English Pig Dogs!"
+497,Monty Python,French Guard,"I blow my nose at you, so called, arthur king. You and all your silly English Kniggets"
+498,Monty Python,French Guard,I don't want to talk to you no more you empty headed animal food trough wiper
+499,Monty Python,French Guard,I Fart In Your General Direction!
+500,Monty Python,French Guard,"Your mother was a hamster, and your father smelt of elderberries, you tiny brained wipers of other people's bottoms! Now go away or I shall taunt you a second time!"
+501,Monty Python,,Bring Out Your Dead!
+502,Monty Python,,I'm Not Dead!
+503,Monty Python,,I'm Getting Better. No You're Not You'll Be Stone Dead In A Moment
+504,Monty Python,Black Knight,None Shall Pass
+505,Monty Python,Black Knight,I Move For No Man
+506,Monty Python,Black Knight,Come On Ya Pansy
+507,Monty Python,King Arthur,You Fight With The Strength Of Many Men Sir Knight
+508,Monty Python,Black Knight,Tis But A Scratch
+509,Monty Python,King Arthur,Victory Is Mine
+510,Monty Python,Black Knight,Just A Flesh Wound
+511,Monty Python,King Arthur,What Are Ya Gonna Do Bleed On Me
+512,Monty Python,Black Knight,I'll Bite Your Legs Off
+513,Monty Python,King Arthur,You're A Loony
+514,Monty Python,Black Knight,"Alright, We'll Call It A Draw"
+515,Monty Python,Tim,Death Awaits Ye All With Nasty Big Point Teeth
+516,Monty Python,King Arthur,Run Away! Run Away!
+517,Monty Python,Tim,I Warned You But Did You Listen To Me Oh No You No
+518,Monty Python,Lancelot,We Have The Holy Hand Grenade
+519,Monty Python,,"Oh, Lord, Bless This Thy Hand Grenade"
+520,Monty Python,,Alwight Alwight We'll Kill Him First And Then Have Tea And Biscuits
+521,Monty Python,,Brave Sir Robin Ran Away. When Danger Reared Its Ugly Head
+522,Monty Python,Bridge Keeper,"What, Is Your Favorite Color"
+523,Monty Python,Bridge Keeper,"What, Is The Airspeed Velocity Of An Unladen Swallow"
+524,Monty Python,,Lets Not Bicker And Argue About Who Killed Who
+525,Monty Python,King Arthur,"Shut Up, And Go And Change Your Armor"
+526,Monty Python,Monks,"Pie Iesu Domine, Dona Eis Requim"
+527,Monty Python,,"We Are The Knights Who Say, Ni!"
+528,Monty Python,Song,Always Look On The Bright Side Of Life
+529,Monty Python,,"Uh, Is This The Right Room For An Arguement"
+530,Monty Python,,"Hello, Uh, Can We Have Your Liver"
+531,Monty Python,,No One Expects The Spanish Inquisition
+532,Austin Powers,Dr Evil,Laughing
+533,Austin Powers,Dr Evil,Come Mr. Bigglesworth
+534,Austin Powers,Dr Evil,I Shall Call Him Mini Me
+535,Austin Powers,Dr Evil,I'm Going To Go Back To The 60s And Steal Austin Power's
+536,Austin Powers,Dr Evil,I'm Gonna Get You Austin Powers
+537,Austin Powers,Dr Evil,"I've Been A Frickin Evil Doctor For 30 Frickin Years, Ok"
+538,Austin Powers,Dr Evil,Mr President in 12 hours I will destroy Washington DC with this giant laser
+539,Austin Powers,Dr Evil,Why Make Trillions When We Could Make Billions
+540,Austin Powers,Dr Evil,"Throw Me A Freakin Bone Here, I'm The Boss, Need The Info"
+541,Austin Powers,Dr Evil,"Uh can u remind me what i pay you people for, honestly throw me a bone here"
+542,Austin Powers,Austin,Very Shagadelic
+543,Austin Powers,Austin,Smashing Baby
+544,Austin Powers,Patty O'Brien,They're Always After Me Lucky Charms
+545,Austin Powers,Fat Bastard,"Come Here, I'm Gonna Eat Ya"
+546,Austin Powers,Fat Bastard,"I'm Bigger Than You, I'm Higher In The Food Chain!"
+547,Austin Powers,Fat Bastard,Get In My Belly Come On
+548,Austin Powers,Fat Bastard,You're Lucky Wee Man
+549,Austin Powers,Fat Bastard,Let Me Make You A Deal Allright
+550,Austin Powers,Dr Evil,Riiiiiiiiiiiiiiiight
+551,Austin Powers,Mustafa,I'm Still Alive But I'm Very Badly Injured
+552,Star Trek,Kirk,Enough Talk - Let's Get On With It
+553,Star Trek,Kirk,Oh My God
+554,Star Trek,Kirk,This Game Has Gone On Long Enough
+555,Star Trek,Kirk,You're A Bumbling Inept Fool
+556,Star Trek,,We Come In Peace And You Blatantly Defile That Peace
+557,Star Trek,,"You're Not As Stupid As I Thought, You Might Even Be Intelligent"
+558,Star Trek,,"You Misunderstand Me Lad I'm Not Asking You, I'm Telling You, You Have No Choice"
+559,Star Trek,,That Was Too Easy
+560,Star Trek,Worf,I Will Be Standing By To Assist You If Needed
+561,Star Trek,Worf,A Warrior Does Not Complain About Physical Discomfort
+562,Star Trek,Picard,The Line Must Be Drawn Here
+563,Star Trek,Picard,I Will Make Them Pay For What They've Done
+564,Star Trek,,I Now Formally Request Your Assistance
+565,Braveheart,,A Most Excellent Idea Sire
+566,Braveheart,,We Won! Victory!
+567,Braveheart,,To The Death!
+568,Braveheart,,"You Are Outmatched, Ha, You Have No Heavy Cavalry"
+569,Braveheart,,We Must Not Divide Our Forces
+570,Braveheart,,We Have Beaten The English
+571,Braveheart,,"I Am Skilled In The Arts Of War And Military Tactics, Sire"
+572,Braveheart,,"You Are Under My Orders, Sir"
+573,Braveheart,,Are You Ready For A War!
+574,Braveheart,,"They May Take Our Life, But They'll Never Take, Our Freedom!"
+575,Braveheart,,Who Is This Person Who Speaks To Me As Though I Needed His Advice
+576,Braveheart,,"You Tell Your King, William Wallace Will Not Be Ruled"
+577,Army Of Darkness,,"See This, This Is My BOOM Stick!"
+578,Army Of Darkness,,Ooh That's Gotta Hurt
+579,Army Of Darkness,,"Buckle Up Bonehead, Cause You're Going For A Ride"
+580,Army Of Darkness,,Hail To The King Baby
+581,Army Of Darkness,,"Ready The Catapults, By God, Let's Give Em What For"
+582,Army Of Darkness,,Go Ahead And Run. Run Home And Cry To Mama
+583,Army Of Darkness,,Come Get Some
+584,Army Of Darkness,,Oh You Little Bastards
+585,Army Of Darkness,,Alright Who Wants Some
+586,Army Of Darkness,,"You Ain't Leading 2 Things Right Now, Jack And Shit, And Jack Left"
+587,3 Amigos,,"Wherever There Is Injustice, You Will Find Us"
+588,3 Amigos,,"Wherever There Is Suffering, We'll Be There"
+589,3 Amigos,,"Wherever Liberty Is Threatened, You Will Find, The 3 Amigos!"
+590,300,,THIS IS SPARTA!
+591,300,,"For Tonight, We Dine IN HELL"
+592,A Few Good Men,,I Want The Truth!
+593,A Few Good Men,,You Can't Handle The Truth!
+594,Airplane!,,Cut Me Some Slack Jack
+595,Akira,,"They Found Us, Run For It!"
+596,Akira,,Do It Now!
+597,Aliens,,"That's It Man Game Over Man, Game Over!"
+598,Aliens,,Its Game Time
+599,Aliens,,Let's Rock! Yeah!
+600,Aliens,,Attention. Emergency. All Personnel Must Evacuate Immediately
+601,Aliens,,There They Go Over There Get Em
+602,Aliens,,"Look Man, I Only Need To Know One Thing. Where They Are"
+603,Aliens,,What Are We Going To Do Now. What Are We Gonna Do
+604,Aliens,,We Just Got Our Asses Kicked Pal
+605,Aliens,,Now What Are We Supposed To Do
+606,American History X,,Well Excuse Me But Fuck You
+607,Animal House,,"Over, Did You Say Over. Nothing Is Over Until We Decide It Is"
+608,Animal House,,"My Advice To You, Start Drinking Heavily"
+609,Apocalypse Now,,I Love The Smell Of Napalm In The Morning
+610,Apollo 13,,Houston We Have A Problem
+611,Armageddon,,Somebody Dial 911!
+612,Batman,Joker,Lets Put A Smile On That Face!
+613,Batman,Joker,Why So Serious
+614,Big Trouble Little China,,Hey Don't Worry I Can Handle It
+615,Big Trouble Little China,,Now This Really Pisses Me Off To No End
+616,Big Trouble Little China,,I Was Born Ready
+617,Bill And Ted,Death,You Must Play Me Again
+618,Bill And Ted,,Excellent
+619,Bill And Ted,,No Way
+620,Biloxi Blues,,You Would Need 3 Promotions To Get To Be An Asshole
+621,Blues Bothers,,"The Women, How Much For The Women"
+622,Boondock Saints,,You InsignifiCUNT!
+623,Butch Cassidy,,"Morons, I've Got Morons On My Team"
+624,Butch Cassidy,,"Well, You Know, It Could Be Worse"
+625,Cheech Chong,,"When Boy, When, Are You Gonna Get Your Act Together!"
+626,Cheech Chong,,Hey This Is Great Man
+627,Clueless,,You're A VIRGIN
+628,Commando,,"You Scared Mother Fucker, Well You Should Be"
+629,Cool Hand Luke,,"What We've Got Here Is, Failure To Communicate"
+630,Devils Rejects,,"I Am The Devil, And I Am Here To Do The Devil's Work"
+631,Die Hard,,"Now You Listen To Me Mister, You Just Destroyed A Building!"
+632,Doctor Detroit,,"Look, You Want The Asshole Of The Year Award, You Got My Vote, Ok"
+633,Excalibur,,"Oh, You Learn Quickly, That's Good, I Like That"
+634,Excalibur,,"We Have Won Battles Against Armies, And Now One Man Defeats All My Knights"
+635,Excalibur,,Run Home To Your Mother Boy
+636,Face Off,,"Let's Go, Let's Go, I'm Bored, Let's Go"
+637,Fast Times,,Hey Bud What's Your Problem
+638,Ferris Bueller,,How Could I Have Been So Careless
+639,Ferris Bueller,,"You're Still Here, It's Over, Go Home, Go"
+640,Flatliners,,Ass Licking Son Of A Bitch
+641,Friday,,YOU GOT KNOCKED THA FUGGG OUT!
+642,Friday,,"I Know What I'm Doing Man, Stfu. Lol"
+643,Full Metal Jacket,,"Oh, You Little Maggot! You Make Me Want To Vommit!"
+644,Full Metal Jacket,,I Have Failed Because You Have Not Helped Me
+645,Full Metal Jacket,,"Sir, Yes Sir!"
+646,Full Metal Jacket,,What Is Your Major Malfunction Numbnuts
+647,Gettysburg,,"That Has Already Happened Once, It Must Never, Never Happen Again"
+648,Gettysburg,,Retreat Is No Longer An Option
+649,Ghost Busters,,"My Friend, Don't Be A Jerk"
+650,Ghostbusters,,Well Now Don't You Bet Your Life On It
+651,Ghostbusters,,"I Think We Better Split Up. Good Idea. Yea, We Can Do More Damage That Way"
+652,Ghostbusters,,"We Came, We Saw, We Kicked Its Ass!"
+653,Half Baked,,"Fuck You, Fuck You, Fuck You, You're Cool, And Fuck You, I'm Out!"
+654,Heathers,,You Stupid FUCK
+655,Hitchhikers Guide,,"I Can't Cope With Any More Of This, I'll Just Go And Have A Lie Down"
+656,Hot Shots,,Keep It Up You'll Be Carrying Your Face Home In A Doggy Bag
+657,ID4,,Looks Like They're Preparing An Invasion
+658,ID4,,"Who's The Man Huh, Who's The Man"
+659,Indiana Jones,,Our Situation Has Not Improved
+660,Interview With The Vampire,,"Don't Make Me Do This, I Cannot"
+661,It's A Wonderful Life,,"Now Listen To Me, I Beg Of You Not To Do This Thing"
+662,James Bond,,"What Are You, Some Kind Of Doomsday Machine Boy!"
+663,James Bond,,"Bond, James Bond"
+664,Josie And The Pussycats,,"Oh! Help, We're Being Brain Washed!"
+665,Jurassic Park,,T-Rex Roar
+666,Kelly's Heroes,,You're Getting Pretty Ambitious Aren't Ya
+667,Kelly's Heroes,,"You Know What I Mean By Assaulted, Huh, Well I Mean Assaulted!"
+668,Kelly's Heroes,,"Come On Now, Lets Get This Army Of Mine Back In The War"
+669,Kill Bill,,"Now If Any Of You Sons Of Bitches, Got Anything Else To Say, Now's"
+670,Lebowski,,"I Don't Like Your Jerkoff Name. Face. Behavior. And I Don't Like You, Jerkoff"
+671,My Boyfriend's Back,,"When It Comes To Chowing Down On A Real Man, Quite The Little Wussi"
+672,Network,,I'm As Mad As Hell And I'm Not Gonna Take This Anymore!
+673,Patriot Games,,I Will Fucking Destroy You. I Will Make It My Mission In Life
+674,Platoon,,"Death, What Do You All Know About Death"
+675,Princess Bride,,"Bye Bye Boys, Have Fun Storming The Castle"
+676,Princess Bride,,"Hello, My Name Is Inigo Montoya, You Killed My Father, Prepare To Die"
+677,Princess Bride,,Inconceiveable
+678,Princess Bride,,"I Am No One To Be Trifle With, That Is All You Ever Need Know"
+679,Princess Bride,,You'd Like To Think That Wouldn't You
+680,Remember The Titans,,Will You Ever Quit! No! We Want Some More!
+681,Reservoir Dogs,,Are You Gonna Bark All Day Little Doggy Or Are You Gonna Bite
+682,Robin Hood Prince Of Thieves,,Might I Have Your Name Before I Have You Run Through
+683,Robin Hood Prince Of Thieves,,I'm Gonna Cut Your Heart Out With A Spoon
+684,Robocop,,Back Off Or There Will Be Trouble
+685,Robot HAL 9000,,I'm Afraid That's Something I Cannot Allow To Happen
+686,Scary Movie,,I See Dead People
+687,Se7en,,"Hey Man, You Know, I'm Right Here. You Can Say That Shit To My Face"
+688,Sharpes Honour,,"You Have One More Chance, Apologize And Resign"
+689,Six Days Seven Nights,,How Do You Want It. You Want It Sugar Coated Or Between The Eyes
+690,Slap Shot,,WE'RE LOSIN! They're Burying Us Alive! You're Blowin It!
+691,Smokey And The Bandit,,I Gotta Barbeque Your Ass!
+692,Something About Mary,,Owww! Ahh! Ah! Ahh!
+693,Speed,,I'm Gonna Rip Your Fuckin Spine Out I Swear To God
+694,Starship Troopers,,"I Only Have One Rule. Everyone Fights, No One Quits"
+695,Stripes,,Before We Proceed Any Further We Gotta Get Somethin Straight
+696,Tank Girl,,What's It Like Knowing You're About To Die
+697,Taxi Driver,,Who The Fuck Do You Think You're Talking To
+698,Team America,,I'll Rip Your Fuckin Balls Off And Stuff Em Up Your Ass!
+699,The Burbs,,What Do We Do Now Soldier
+700,The Departed,,I'll Cut Your Fuckin Nuts Off. You Understand That
+701,The Maltese Falcon,,"You Imbecile, You Bloated Idiot, You Stupid Fat Head You, 'cries'"
+702,The Thing,,You Gotta Be Fuckin Kidding
+703,They Live,,I Have Come Here To Chew Bubblegum And Kick Ass And I'm All Outta Bubblegum
+704,Tim Allen,,Pay Attention Boys I'll Show U How It's Done
+705,Toy Story,Buzz,Don't Even Think About It Cowboy
+706,Toy Story,Buzz,"I just want you to know that even though you tried to terminate me, Revenge is not an idea we promote on my planet"
+707,Toy Story,Buzz,There Seems To Be No Sign Of Intelligent Life Anywere
+708,Toy Story,Buzz,"You're Mocking Me, Aren't You"
+709,Toy Story,Rex,I Don't Like Confrontations
+710,Toy Story,Sarge,Where Is Your Honor Dirt Bag. You Are An Absolute Disgrace
+711,Toy Story,Alien,"Farewell My Friend, I Go On To A Better Place"
+712,Titanic,,I'm The King Of The World!
+713,Tombstone,,You Gonna Do Something Or Just Stand There And Bleed
+714,Tombstone,,Does This Mean We're Not Friends Anymore
+715,Trading Places,,Get Lost You Maggot
+716,Trading Places,,I'll Rip Out Your Eyes And Piss On Your Brain
+717,Waterloo,,Never Interrupt Your Enemy When He Is Making A Mistake
+718,Wayne's World,Wayne,Denied
+719,Wayne's World,Wayne,"Yeah, And Monkeys Might Fly Out Of My Butt"
+720,Wayne's World,Wayne,Are You Mental
+721,Wayne's World,Wayne,Not
+722,Wayne's World,Wayne,Hey What Are U Up To
+723,Wayne's World,Wayne,No Way
+724,Wayne's World,Garth,It's Almost Too Easy
+725,Wayne's World,Garth,He's Gonna Be Ooo K
+726,Wayne's World,Garth,Hey Mr Donut Head Man Who's Trying To Kill You
+727,Wayne's World,,Wow Your Amazing Dude
+728,White Men Can't Jump,,Shut Your Anorexic Malnutrition Diet Drinking Ass Up
+729,Wizard Of Oz,Dorothy,What Would You Do With A Brain If You Had One
+730,Woody Allen,,You Can All Go Fuck Yourselves
+731,X-Men The Last Stand,,"I'm The Juggernaut, Bitch!"
+732,,,Tell Me Where The Rest Of Your Men Are Hiding
+733,Saw,,I Want To Play A Game
+734,Saw,,"Live Or Die, Make Your Choice"
+735,Saw,,"Congratulations, You Are Still Alive"
+736,Saw,,"Most People Are So Ungrateful To Be Alive, But Not You, Not Anymore"
+737,Hell Raiser,,"Your Suffering Will Be Legendary, Even In Hell"
+738,Hell Raiser,,"No Tears, Please. It's A Waste Of Good Suffering!"
+739,Hell Raiser,,We'll Tear Your Soul Apart
+740,The Shining,,"Redrum, Redrum, Redrum, Redrum!"
+741,The Shining,,I'm Just Gonna Bash Your Brains In. I'm Gonna Bash Em Right The Fuck In
+742,Child's Play,,"Hi, I'm Chucky, Wanna Play! Ahh!"
+743,IT,,"I'll Kill You All! Haha! I'll Drive You Crazy, And I'll Kill You Al"
+744,Misery,,"There Is Nothing To Worry About, You're Gonna Be Just Fine. I'm Your Number 1 Fan"
+745,Nightmare On Elm St,,"Whatever You Do, Don't Fall Asleep"
+746,Poltergeist,,They're Here
+747,Adam Sandler,,"AH HA HA HA HA HA HA HA, SHUT UP!"
+748,Adam Sandler,,"All Right Lets Go, You Like That Old Man, You Want A Piece Of Me"
+749,Adam Sandler,Bob Barker,"I Think You've Had Enough, No, Now You've Had Enough"
+750,Adam Sandler,,Rock And Roll!
+751,Adam Sandler,,"Sir, One More Outburst I Will Strangle You With My Microphone Wire"
+752,Adam Sandler,,Time To Open Up Some Whoop-Ass
+753,Adam Sandler,,So That's What Opening Up A Can Of Whoopass Feels Like
+754,Adam Sandler,,'Spanish Muttering'. Slow Down
+755,Adam Sandler,,"There's Nothing You Can Do About It, Cause I'm A Mad Man!"
+756,Adam Sandler,,Why Don't You Just Watch Me And Make Sure I Don't Do Anything Stupid
+757,Adam Sandler,,"You Want Some More Of That, I Didn't Think So!"
+758,Al Pacino,,I Wanna Hear You Scream
+759,Al Pacino,,It Was Not What I Wanted!
+760,Al Pacino,,Say Hello To My Little Friend!
+761,Al Pacino,,You're A Piece Of Shit You Fucking Cockroach
+762,Arnold,,"Come On, Come On!, Kill Me!, I'm Here!, Kill Me!, Come On!, Kill Me"
+763,Arnold,,"Come On, Don't Bullshit Me"
+764,Arnold,,Come With Me If You Want To Live
+765,Arnold,,Don't You Know The Building Is On Fire
+766,Arnold,,GAME OVER
+767,Arnold,,Going To Play A Wonderful Game
+768,Arnold,,Good Morning
+769,Arnold,,"Hasta La Vista, Baby"
+770,Arnold,,Hi
+771,Arnold,,How Are You
+772,Arnold,,Howdy Stranger
+773,Arnold,,I Do Not Want To Touch His Ass
+774,Arnold,,I Don't Play That Game
+775,Arnold,,I'll Be Back
+776,Arnold,,I'm Back
+777,Arnold,,Just Do What I Tell You
+778,Arnold,,Why Not
+779,Arnold,,No
+780,Arnold,,Prepare To Be Conquered
+781,Arnold,,"Put That Cookie Down, Now!"
+782,Arnold,,So Why Am I Still Alive
+783,Arnold,,What's A Matter
+784,Arnold,,Stop It
+785,Arnold,,Stop Whining!
+786,Arnold,,What The Fuck Did I Do Wrong
+787,Arnold,,What The Hell Were You Thinking
+788,Arnold,,Who Are You
+789,Arnold,,Who The Fuck Are You
+790,Arnold,,Yes
+791,Arnold,,You Son Of A Bitch
+792,Arnold,,You Started It
+793,Arnold,,You've Just Been Erased
+794,Chris Farley,,I Wish You Could Shut Your Big Yapper!
+795,Chris Farley,,Oh My God We're Burning Alive!
+796,Chris Farley,,Sweet Mother Of God! What Is The Holdup!
+797,Chris Farley,,Well La De Frickin Da!
+798,Clint,,Dying Ain't Much Of A Living Boy
+799,Clint,,Go Ahead Make My Day
+800,Clint,,Such Ingratitude After All The Times I've Saved Your Life
+801,Clint,,"You Made A Mistake, Well That Was Entirely Unacceptable"
+802,Denis Leary,,Hey Hey Hey Hey Hey
+803,Denis Leary,,I Am The Lord Of The Dance
+804,Denis Leary,,I'm An Asshole And I'm Proud Of It
+805,Denis Leary,,Pull Up Your Pants
+806,Denis Leary,,Relax
+807,Denis Leary,,Sorry
+808,Denis Leary,,What The Hell Were You Thinking
+809,Denis Leary,,You're Going Down
+810,Denis Leary,,You're Welcome
+811,Gene Wilder,,Jesus Christ! I've Met Some Dumb Bastards In My Time But You Outdo Them All
+812,Gene Wilder,,"No No, Don't Do That, If You Shoot Him You'll Just Make Him Mad"
+813,Gene Wilder,,What's The Matter With You People I Was Joking! Don't You Know A Joke
+814,Gene Wilder,,You Stupid Ignorant Son Of A Bitch Dumb Bastards!
+815,Jim Carrey,Ace Ventura,Alrighty Then
+816,Jim Carrey,Ace Ventura,Here I Come To Save The Day
+817,Jim Carrey,Ace Ventura,"Hi, I'm Looking For Ray Finkle, And A Clean Pair Of S"
+818,Jim Carrey,Ace Ventura,How Can I Get This Work Done With All Of The Shouting
+819,Jim Carrey,Ace Ventura,"I Just Cant Do It Captain, I Don't Have The Power!"
+820,Jim Carrey,Ace Ventura,I Was Way Off
+821,Jim Carrey,Ace Ventura,"I'm Warning You, I'm Seriously Stressed Here"
+822,Jim Carrey,Ace Ventura,Killer Boots Man!
+823,Jim Carrey,Ace Ventura,Laughing
+824,Jim Carrey,Ace Ventura,What Happened To Him What Happened To Me
+825,Jim Carrey,Ace Ventura,"Yes! Yes! Oh, Yea! Can You Feel That Buddy! Huh, Huh"
+826,Jim Carrey,Ace Ventura,"You Know, Could Put Somebody's Eye Out With That Thing"
+827,Jim Carrey,Cable Guy,"Ha Ha Ha Ha Ha, You Are Too Easy"
+828,Jim Carrey,Cable Guy,I Can Be Your Best Friend Or Your Worst Enemy
+829,Jim Carrey,Cable Guy,I'm Kind Of A Perfectionist
+830,Jim Carrey,Cable Guy,Lets Get It On
+831,Jim Carrey,Cable Guy,No Sweat Off My Sac
+832,Jim Carrey,Cable Guy,No Way
+833,Jim Carrey,Cable Guy,"Oh I See, We're Playing Prison Rules Huh"
+834,Jim Carrey,Cable Guy,"Who Told You That, What Is His Name"
+835,Jim Carrey,Cable Guy,"Well Maybe I Shouldn't Have Come At All, Jerkoff!"
+836,Jim Carrey,Fire Marshall Bill,Fire Marshall Bill Just What The Heck Do You Think You're Doin
+837,Jim Carrey,Grinch,But What Would I Wear
+838,Jim Carrey,Lloyd,"Man, You Are One Pathetic Loser"
+839,Jim Carrey,Mask,That's Gotta Hurt
+840,Jim Carrey,Riddler,Now The Real Game Begins
+841,Joe Pesci,,"Get This Through Your Head Motherfucker, You Only Exist Out Here Because Of Me"
+842,Joe Pesci,,You Shit Kicking Stinky Horse Manure Smelling Mothafucka You
+843,Joe Pesci,,"You're Warned Don't Ever Go Over My Head Again, You Mother Fucker You"
+844,Rodney Dangerfield,,"Well This Whole Place Sucks, That's Right, It Sucks"
+845,Sam Jackson,,You Know What The Scariest Thing Is
+846,Sam Jackson,,I DON'T REMEBER ASKING YOU A GOD DAMN THING
+847,Sam Jackson,,"Oh, I'm Sorry Did I Break Your Concentration"
+848,Sam Jackson,,Say What Again. I Dare You Mother Fucker! Say What One More God Damn Time
+849,Sam Jackson,,"There Is A Sole Survivor, And He Is Miraculously Unharmed"
+850,3rd Rock,,I Am So Screwed
+851,All In The Family,,"Ay, Ay, AY! You Trying To Rush Us"
+852,Beverly Hillbillies,,By Doggies That's Hittin Low
+853,Blackadder,,"Please, Please, You've Got To Help Me. I Don't Want To Die, I Want"
+854,Dexter,,I OWN YOU
+855,Friends,Chandler,Is It Wrong That I Was Totally Aroused By That
+856,Married With Children,,"Cant Do This To Me, I'm A Legend"
+857,Millennium,,"He Wants A Challenge, Lets Give Him One"
+858,MST3K,,"You Know, Sometimes I Feel Like You Guys Don't Want Me To Take Over The World"
+859,MST3K,,I Seem To Have Died Is That Okay
+860,MST3K,,"Boy, The Potential For Something To Happen Is Very High Right Now"
+861,MST3K,,There's About A 1 In 4 Chance We're Gonna Come Out Of This Alive
+862,Red Dwarf,,You Are An Impudent Fool
+863,Red Dwarf,,"We Attack Tomorrow, Under Cover Of Daylight. The Last Thing They'll Expect"
+864,Red Dwarf,,"Very Well, If That's The Way You Want To Play It"
+865,Red Dwarf,,"We Have To Face Facts, The War Is Lost"
+866,Seinfeld,,"I'm Dangerous, I'm Very Very Dangerous!"
+867,Seinfeld,,That Guy's Coming Home In A Body Bag
+868,Seinfeld,,I'm Sorry. This Is What Comes Of Living Under A Nazi Regime
+869,Seinfeld,,Who Wants To Have Some Fun!
+870,SNL,,Well Isn't That Special
+871,Stooge,,I'm Trying To Think But Nothing Happens
+872,Stooge,,"Woowuwuwuwuwu. Nyuk, Nyuk, Nyuk"
+873,Stooge,,I'll Explain It So Even You Can Understand. My Colleagues Will Assi
+874,The A Team,,"Hey Fool, This Stuff Is Dangerous It'll Burn Your Face Right Off"
+875,The Office,,NOO GOD! No! God! PLEASE NO! No! No! NOOOOOOOOOO
+876,Wrestling,,And Now Ladies And Gentlemen Let's Get Ready To Rumble
+877,Wrestling,,Do You Want To Go One On One With The Great One
+878,Wrestling,,It Doesn't Matter What Your Name Is
+879,Xena,,Battle Cry
+880,Wassup,,Wuthaaaa
+881,Wassup,,Wazaa
+882,Wassup,,Wuzaaaa
+883,Wassup,,Wuhzaaaa
+884,Watching Game,,"Watching The Game, Having A Bud"
+885,Watching Game,,"Nuttin B, Just Watching The Game, Having A Bud"
+886,Watching Game,,"Nothing, Watching The Game, Having A Bud"
+887,Jurgen The German,,I Feel I Must Apologize For The Conduct Of My Nation In The War
+888,Curser,,Scumbag Fuckface Dickhead Asshole
+889,Curser,,Shit Eating Son On A Bitch
+890,Curser,,Bastard Douchebag Twat Dickhead
+891,Curser,,"Dick Brained, Horseshit, Slime Sucking, Son Of A Whore, Bitch!"
+892,Curser,,"Fuck You, Yeah That's My Message For You. Fuck You And Kiss My Ass"
+893,Curser,,Fuck Your Own Face!
+894,Curser,,Go FUCK Yourself
+895,Curser,,Muthafucka!
+896,Curser,,"Hey, Fuck You"
+897,Curser,,I Will Massacre You! I Will Fuck You Up!
+898,Curser,,Why Don't You Go Home And Fuck Your Mother Some More
+899,Curser,,You Cock Juggling Thunder Cunt!
+900,Curser,,You Fucker's Fucker! You Fucker! Huh Huh Huh
+901,Curser,,You Mother Fucking Worthless Cocksucker!
+902,Shutup,,"For The Tenth Time If You Don't Shut Up, I'm Gonna Positively Kill"
+903,Shutup,,"Meow Meow Meow Meow Meow, Shut The Fuck Up Will Ya!"
+904,Shutup,,"Shutup, Shutup, Shutup, Just Shutup"
+905,Shutup,,Shutup
+906,Shutup,,STFU! I'm Gonna Kill You
+907,Pee,,I Gotta Go To The Bathroom!
+908,Pee,,Haha I Believe He Said He Had To Go Pee
+909,Pee,,I Really Gotta Pee
+910,Pee,,"You Ain't Cool, Unless You Pee Your Pants"
+911,Effect,,Chainsaw Reving
+912,Effect,,Man Screaming
+913,Effect,,Taps
+914,Effect,,Bugle Call
+915,Effect,,Gong
+916,Effect,,Random
+917,Effect,,Wolf
+918,Effect,,Chicken Sound
+919,Effect,,Burp
+920,Effect,,Coughing
+921,Effect,,Snoring
+922,Effect,,Snoring 2
+923,Effect,,"Pffft Oh, You Farted"
+924,Effect,,Drowning
+925,Effect,,Crowd Cheering
+926,Windows,,Welcome
+927,Windows,,Goodbye
+928,Crying,,Kid Crying
+929,Crying,,Baby Crying
+930,Crying,,Baby Crying (Autotuned)
+931,Kids Voice,,"Boy, You're Hurting Me"
+932,Kids Voice,,Get Away From Me U Stupid Idiot
+933,Kids Voice,,Uh Oh
+934,Kids Voice,,"Wussy, Wussy, Wussy"
+935,Kids Voice,,YOU'RE A NOOB!
+936,Small Voice,,"Allelujah, Allelujah, Allelujah, Allelujah, I Am Still Avlie"
+937,Small Voice,,Please Don't Kill Me
+938,Small Voice,,Shutup
+939,Small Voice,,You Stink
+940,,,OH Yeah!
+941,,,Hooo-Ha
+942,,,Yeeehaaa
+943,,,Yeeehhhhaaaooo
+944,,,Oh That Sucks
+945,,,This Sucks
+946,,,All Your Base Are Belong To Us
+947,,,Oh I'm So Scared
+948,,,"Listen Bro, You Got A Problem With My Coolness Unh Unh Unh"
+949,,,"Hey Girl You Looking Good, Wanna Come Back To My Place And Derp"
+950,,,Aww Yeeah First Place Bitches! LOL
+951,,,"OMG You Fucking Loser, I Know You Hacked. I'm Gonna Tell The Admin"
+952,,,"If I Haven't Told You Once, I've Told You Twice. I'm The Best There"
+953,,,"boy, i told you i was crazy now. now you  gonna make me get out my ugly stick and run a makeover on your face"
+954,,,People Like Me I'm The Champ
+955,,,I'm Gonna Get You Sucka
+956,,,That Was A Record!
+957,,,Are You Still There
+958,,,"That's It, Lets Do It I'm Ready"
+959,,,Woah! What The Hell's Your Problem
+960,,,COOL!
+961,,,He'll Be Fun To Break
+962,,,"What Are You Waiting For, Come On, Come On"
+963,,,France Has Fallen!
+964,,,Long Live France!
+965,,,"You Never Meant To Keep You Word, You Have No Honor, You Are A Cheat And A Liar"
+966,,,We're Taking This Place Over
+967,,,Time To Play
+968,,,There Will Be Blood
+969,,,Our Base Is Under Attack
+970,,,"Frankly Son, You Frighten Me"
+971,,,"C'mon, Gimmie A Break"
+972,,,Warning! Warning!
+973,,,Don't Do That
+974,,,Don't Touch Me
+975,,,"Go Away, I'm Busy"
+976,,,Nice Try But I'm Afraid You Can't Do That
+977,,,I've Been Looking For You
+978,,,Hello Yoohoo Anybody Here
+979,,,We're Gonna Win!! Haha
+980,,,Open This Gate!
+981,,,You're Ugly And Your Mother Dresses You Funny
+982,,,Oh That Was Painful Wasn't It
+983,,,I Hope He's Well Insured
+984,,,Come On Man
+985,Laugh,,Haahahahaahaaahaha
+986,Laugh,,Hahahahahaha
+987,Laugh,,HAAhahaHaha
+988,Laugh,,Yeaahahaha Hahahahahee
+989,Laugh,,"HAHA, Assholes!"
+990,Laugh,,Wicked Laugh
+991,Laugh,,Bad Cackle
+992,Laugh,,Hmhmhmmhahahaha
+993,Laugh,,Wuuwhowhohahahahaha
+994,Laugh,,Hehhehhehhawhawhaw
+995,Laugh,,Ha Ha Ha
+996,Laugh,,HahAhahaHa
+997,Laugh,,Hahahaha GOT EM!
+998,Laugh,,Hahahahahaahaahaa
+999,Laugh,,"You Are An Idiot, Hahahahahahaha"
